@@ -1,9 +1,9 @@
 ## Ruslan Korneev - Python Backend Developer
 > - Belgrade, Serbia
 > - shaggybackend@gmail.com
-> - [Telegram](t.me/shaggy_dev)
-> - [Linked In](linkedin.com/in/ruslan-korneev/)
-> - [GitHub](github.com/shaggy-axel)
+> - [Telegram](https://t.me/ruslan_korneev)
+> - [Linked In](https://linkedin.com/in/ruslan-korneev/)
+> - [GitHub](https://github.com/ruslan-korneev)
 
 
 ## Summary
@@ -13,19 +13,21 @@
 
 
 ## Experience
-### Python Backend Developer 
-- Kortechs
+### Python Backend Developer at Vision Systems
+- 05/2023 - currently working there
+- Belgrade, Serbia
+
+### Python Backend Developer at Kortechs
 - 04/2022 - 04/2023
-- Belgrade , Serbia
+- Belgrade, Serbia
 
 > - Was building an Altaport project from scratch. This is web-application, Reservation system for pilots operators and heliport/airport managers. Stack: Django REST, Postgres, Redis, Celery, React-Typescript. Made an integrations with TimeKit, SendGrid(Twillio), Stripe and other systems.
 > - Built a SlackBot to control a GitLab's projects/repositories, monitoring ci/cd pipelines via slack, notifications, e.t.c.
 
 
-### Python Backend Developer 
-- Corpberry
+### Python Backend Developer at Corpberry
 - 09/2021 - 04/2022
-- Rostov-on-Don , Russia
+- Rostov-on-Don, Russia
 
 > - Scraping and Parsing using Python(requests, beautifulsoup4, pandas, boto3), AWS-S3, Google Sheets
 > - Scripts to parse a large sources using a regex and python, save to db and output using Django Templates.
@@ -33,25 +35,23 @@
 > - Setting up Grafana-Prometheus for Django-Postgres project for monitoring and statistics.
 
 
-### Python Backend Developer 
-- NiceCode
+### Python Backend Developer at NiceCode
 - 01/2021 - 09/2021
-- Rostov-on-Don , Russia
+- Rostov-on-Don, Russia
 
 > - Was maintaining an existing project - reLife. On backend side we were using python, django rest, postgres, daphne, redis, celery, payment system leopay, aws s3. On frontend side - react, js.
 > - Built a Telegram Bot which monitoring the added servers, sending notifications if something is broken, or the memory is close to die. Stack: python, aiogram, django-admin.
 
 
-### Python Backend Developer 
-- Supplar
+### Python Backend Developer at Supplar
 - 05/2020 - 01/2021
-- Rostov-on-Don , Russia
+- Rostov-on-Don, Russia
 > Built an Application Server from scratch using Python, Django REST Framework, Postgres for Mobile application written in a Dart, Flutter.
 > Supplar App is generator of daily recipes for everybody, depends on your preferences, such as height, weight, allergies, calories, proteins, fats, carbohydrates and e.t.c
 
 
 ### Python Backend Developer 
-- Freelance
+- Freelance on Upwork
 - 06/2019 - 05/2020
 
 > - **Python Backend Development**: Django REST, Postgres, Celery, Redis
